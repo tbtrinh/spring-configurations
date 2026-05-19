@@ -1,2 +1,2 @@
 greeting:
-  message: Hello from Config Server (default profile)!
+  number: 20
